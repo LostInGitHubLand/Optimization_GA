@@ -1,5 +1,6 @@
 # Optimization_GA
 **The aim of this work**
+
 This work was produced during a job interview in which I was given a small dataset and some basic knowledge on genetic algorithms, which I didn't know before, to solve a knapsack problem. The aim of the test was to approach a new topic (without getting lost in the details) and learn in a few days how to manage it to best solve the given task and find an optimal solution. 
 It was fun, I love learning new things, even if I struggle not to get sucked into curiosity and get lost in the details.
 
